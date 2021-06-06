@@ -1,2 +1,2 @@
 # kte_fly
-fying kite made with animation.
+Flying kite made with animation.
